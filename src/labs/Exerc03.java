@@ -16,6 +16,8 @@ public class Exerc03 {
 		
 		int resultado = a + b;
 		System.out.println("A soma dos numeros é: " + resultado);
+		
+		sc.close();
 	}
 
 }
